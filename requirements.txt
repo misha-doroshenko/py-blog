@@ -2,7 +2,12 @@ crispy-bootstrap5==2024.10
 Django==4.2
 django-crispy-forms==2.3
 django-debug-toolbar==3.2.4
+dotenv==0.9.9
 flake8==5.0.4
 flake8-quotes==3.3.1
 flake8-variables-names==0.0.5
+gunicorn==23.0.0
 pep8-naming==0.13.2
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+whitenoise==6.9.0
